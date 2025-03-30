@@ -17,6 +17,25 @@ Price: $1
 ![Money walks](daller.jpg)
 Price: $1
 
+popup {
+            display: none;
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            background: rgba(0, 0, 0, 0.8);
+            justify-content: center;
+            align-items: center;
+        }
+        .popup img {
+            width: 50%;
+            max-width: 500px;
+            border-radius: 10px;
+        }
+        .popup:target {
+            display: flex;
+
 ## Contact
 For inquiries, please contact us at [kvannurkar@gmail.com](mailto:kvannurkar@gmail.com).
 
