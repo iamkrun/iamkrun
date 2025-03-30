@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Perfume Boutique</title>
+    <title>Legacy Perfume </title>
     <style>
         body {
             font-family: Arial, sans-serif;
@@ -44,7 +44,7 @@
     </style>
 </head>
 <body>
-    <header>Perfume Boutique</header>
+    <header>Legacy perfume</header>
     <div class="hero">Discover the Essence of Luxury</div>
     <div class="products">
         <div class="product">
@@ -55,9 +55,9 @@
         <div class="product">
             <img src="perfume2.jpg" alt="Perfume 2" width="100%">
             <h3>Ocean Breeze</h3>
-            <p>$60</p>
+            <p>$1</p>
         </div>
     </div>
-    <footer>Contact us at info@perfumeboutique.com</footer>
+    <footer>Contact us at kvannurkar@gmail.com </footer>
 </body>
 </html>
