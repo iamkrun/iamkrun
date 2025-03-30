@@ -10,11 +10,11 @@ Legacy Perfume offers a range of luxurious perfumes that cater to every taste an
 
 ## Products
 ### Fragrance of Money
-![France of Money](perfume1.jpg)
+![France of Money](daller.jpg)
 Price: $1
 
 ### Money Walks
-![Money walks](perfume2.jpg)
+![Money walks](daller.jpg)
 Price: $1
 
 ## Contact
